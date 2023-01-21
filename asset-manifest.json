@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shrinand13/static/css/main.5dfa0da9.css",
+    "main.js": "/shrinand13/static/js/main.88bd76b0.js",
+    "static/media/shrinand.jpeg": "/shrinand13/static/media/shrinand.cbb2e85be7fd77a750d7.jpeg",
+    "static/media/sk.pdf": "/shrinand13/static/media/sk.2cba21918ebaa18ab0e3.pdf",
+    "static/media/sknew.jpeg": "/shrinand13/static/media/sknew.9f94e5b41400ee7199ca.jpeg",
+    "index.html": "/shrinand13/index.html",
+    "main.5dfa0da9.css.map": "/shrinand13/static/css/main.5dfa0da9.css.map",
+    "main.88bd76b0.js.map": "/shrinand13/static/js/main.88bd76b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dfa0da9.css",
+    "static/js/main.88bd76b0.js"
+  ]
+}
